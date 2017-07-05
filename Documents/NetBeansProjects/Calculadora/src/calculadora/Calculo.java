@@ -13,7 +13,7 @@ public class Calculo {
     private Integer num1;
     private Integer num2;
     private Integer num3;
-    private Integer rst;
+    private Double rst;
     public void suma(){
         
     }
